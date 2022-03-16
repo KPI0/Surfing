@@ -1,4 +1,4 @@
-# Freedom
+# 仅为学术研究，请勿滥用！
 ----
 ### Android
 #### [shadowsocksr-v2ray-trojan-android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)
@@ -10,6 +10,3 @@
 ----
 ### >>>>[V2.txt节点](https://github.com/KPI0/Freedom/blob/main/V2.txt)>>>>>>BASE64编码>>>>>>>>[V2订阅链接](https://github.com/KPI0/Freedom/blob/main/V2)>>>>>>>>>>
 # 为保证节点安全不被盗用，均采用本地编码不上传云端
-### 请不要滥用
-### 请不要滥用
-### 请不要滥用
