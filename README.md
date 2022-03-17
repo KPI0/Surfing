@@ -14,6 +14,7 @@
 #### [igniter](https://github.com/trojan-gfw/igniter/releases)
 #### [Pharos](https://github.com/PharosVip/Pharos-Android-Test/releases)
 #### [bifrostv](https://github.com/v2raym/bifrostv)
+#### [Telegram](https://telegram.org/android)
 
 ### PC
 #### [clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg/releases)  ||  [Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)
@@ -21,6 +22,7 @@
 #### [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/releases)
 #### [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows/releases)
 #### [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
+#### [Telegram for win](https://desktop.telegram.org/)  || [Telegram for macOS](https://macos.telegram.org/)
 
 ### 镜像、加速
 #### [清华大学开源软件镜像站](https://mirrors4.tuna.tsinghua.edu.cn/)
