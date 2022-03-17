@@ -24,8 +24,12 @@
 
 ### 镜像、加速
 #### [清华大学开源软件镜像站](https://mirrors4.tuna.tsinghua.edu.cn/)
-#### [library.ac.cn](https://www.library.ac.cn/)
 #### [MSDN我告诉你](https://msdn.itellyou.cn/)
+#### [万维百科](https://www.wanweibaike.net/)
+#### [library.ac.cn](https://www.library.ac.cn/)
+#### [ac.scmor.com](https://ac.scmor.com/)
+#### [scholar.scqylaw.com](http://scholar.scqylaw.com/)
+
 ----
 ### >>>>[V2.txt节点](https://github.com/KPI0/Freedom/blob/main/V2.txt)>>>>>>BASE64编码>>>>>>>>[V2订阅链接](https://github.com/KPI0/Freedom/blob/main/V2)>>>>>>>>>>
 
