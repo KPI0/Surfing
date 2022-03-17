@@ -2,13 +2,17 @@
 ----
 ### Android
 #### [shadowsocksr-v2ray-trojan-android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)
+#### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases) 
 #### [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android/releases)
 #### [ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android/releases)
 #### [v2rayNG](https://github.com/2dust/v2rayNG/releases)
 #### [ClashRForAndroid](https://github.com/naicfeng/ClashRForAndroid/releases)
-#### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases) 
 #### [kitsunebi-android](https://github.com/eycorsican/kitsunebi-android/releases)
 #### [SagerNet](https://github.com/SagerNet/SagerNet/releases)
+#### [Surfboard](https://manual.getsurfboard.com/)
+#### [igniter](https://github.com/trojan-gfw/igniter/releases)
+#### [Pharos](https://github.com/PharosVip/Pharos-Android-Test/releases)
+#### [bifrostv](https://github.com/v2raym/bifrostv)
 ### PC
 #### [clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg/releases)  ||  [Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)
 #### [v2rayN](https://github.com/2dust/v2rayN/releases)
