@@ -15,6 +15,7 @@
 #### [Pharos](https://github.com/PharosVip/Pharos-Android-Test/releases)
 #### [bifrostv](https://github.com/v2raym/bifrostv)
 #### [Telegram](https://telegram.org/android)
+#### [Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)
 
 ### PC
 #### [clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg/releases)  ||  [Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)
