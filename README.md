@@ -32,6 +32,8 @@
 #### [library.ac.cn](https://www.library.ac.cn/)
 #### [ac.scmor.com](https://ac.scmor.com/)
 #### [scholar.scqylaw.com](http://scholar.scqylaw.com/)
+#### [jsdelivr](https://www.jsdelivr.com/)
+#### [GitHub文件加速](https://gitcdn.top/)
 
 ----
 ### >>>>[V2.txt节点](https://github.com/KPI0/Freedom/blob/main/V2.txt)>>>>>>BASE64编码>>>>>>>>[V2订阅链接](https://github.com/KPI0/Freedom/blob/main/V2)>>>>>>>>>>
