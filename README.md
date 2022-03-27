@@ -1,4 +1,4 @@
-[<img align="right" src="https://github.com/KPI0/academic-research/blob/main/image/ahmem-sc1cm.png" width="300px" />](https://baike.baidu.com/item/%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A/662146?fr=aladdin)
+[<img align="right" src="https://github.com/KPI0/academic-research/blob/main/image/ahmem-sc1cm.png" width="400px" />](https://baike.baidu.com/item/%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A/662146?fr=aladdin)
 # 仅供学术研究，请勿滥用！
 ## Android ||  iPhone/iPad
 #### [Shadowsocksr-v2ray-trojan-Android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)
