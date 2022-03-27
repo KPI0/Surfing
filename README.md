@@ -1,5 +1,5 @@
 # 仅供学术研究，请勿滥用！
-## Android
+## Android ||  iPhone/iPad
 #### [Shadowsocksr-v2ray-trojan-Android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)
 #### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases) 
 #### [Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android/releases)
@@ -15,7 +15,7 @@
 #### [Telegram](https://telegram.org/android)
 #### [Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)
 
-## PC
+## Windows || MacOS
 #### [Clash_for_Windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg/releases)  ||  [Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)
 #### [v2rayN](https://github.com/2dust/v2rayN/releases)
 #### [Shadowsocks-Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)
