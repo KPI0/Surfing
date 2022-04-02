@@ -25,6 +25,7 @@
 #### [Telegram for Win](https://desktop.telegram.org/)  || [Telegram for MacOS](https://macos.telegram.org/)
 
 ## 镜像、加速
+#### [mirrorz](https://mirrorz.org/)
 #### [清华大学开源软件镜像站](https://mirrors4.tuna.tsinghua.edu.cn/)
 #### [MSDN我告诉你](https://msdn.itellyou.cn/)
 #### [万维百科](https://www.wanweibaike.net/)
