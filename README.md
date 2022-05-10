@@ -1,6 +1,6 @@
 [<img align="right" src="https://github.com/KPI0/academic-research/blob/main/image/ahmem-sc1cm.png" width="400px" />](https://baike.baidu.com/item/%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A/662146?fr=aladdin)
 # 仅供学术研究，请勿滥用！
-## Android||iPhone||iPad
+## Android  ||  iPhone  ||  iPad
 #### [Shadowsocksr-v2ray-trojan-Android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)
 #### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases) 
 #### [Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android/releases)
@@ -16,7 +16,7 @@
 #### [Telegram](https://telegram.org/android)
 #### [Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)
 
-## Windows||MacOS
+## Windows  ||  MacOS
 #### [Clash_for_Windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg/releases)  ||  [Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)
 #### [v2rayN](https://github.com/2dust/v2rayN/releases)
 #### [Shadowsocks-Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)
