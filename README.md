@@ -24,7 +24,7 @@
 #### [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
 #### [Telegram for Win](https://desktop.telegram.org/)  || [Telegram for MacOS](https://macos.telegram.org/)
 
-## 镜像、加速
+## 镜像 || 加速
 #### [镜像导航mirrorz](https://mirrorz.org/)
 #### [清华大学开源软件镜像站](https://mirrors4.tuna.tsinghua.edu.cn/)
 #### [MSDN我告诉你](https://msdn.itellyou.cn/)
