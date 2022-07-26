@@ -1,5 +1,7 @@
 [<img align="right" src="https://github.com/KPI0/academic-research/blob/main/image/ahmem-sc1cm.png" width="400px" />](https://baike.baidu.com/item/%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A/662146?fr=aladdin)
+
 # 仅供学术研究，请勿滥用！
+
 ## Android、iPhone、iPad
 #### [Shadowsocksr-v2ray-trojan-Android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)
 #### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases) 
@@ -13,8 +15,7 @@
 #### [igniter](https://github.com/trojan-gfw/igniter/releases)
 #### [Pharos](https://github.com/PharosVip/Pharos-Android-Test/releases)
 #### [bifrostv](https://github.com/v2raym/bifrostv)
-#### [Telegram](https://telegram.org/android)
-#### [Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)
+#### [Telegram](https://telegram.org/android)、[Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)
 
 ## Windows、MacOS
 #### [Clash_for_Windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)
@@ -35,7 +36,3 @@
 #### [jsdelivr](https://www.jsdelivr.com/)
 #### [GitHub文件加速](https://gitcdn.top/)
 #### [GitHub Mirror 加速源](https://www.github.do/)
-
-### >>>>[V2.txt节点](https://github.com/KPI0/Freedom/blob/main/V2.txt)>>>>>>BASE64编码>>>>>>>>[V2订阅链接](https://github.com/KPI0/Freedom/blob/main/V2)>>>>>>>>>>
-
-# 为保证节点安全不被盗用，均采用本地编码不上传云端。
