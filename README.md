@@ -15,13 +15,13 @@
 #### [bifrostv](https://github.com/v2raym/bifrostv)
 #### [Telegram](https://telegram.org/android)、[Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)
 
-## Windows、MacOS、Linux
+## Windows、macOS、Linux
 #### [Clash_for_Windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)
 #### [v2rayN](https://github.com/2dust/v2rayN/releases)
 #### [Shadowsocks-Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)
 #### [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows/releases)
 #### [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
-#### [Telegram for Win](https://desktop.telegram.org/)、[Telegram for MacOS](https://macos.telegram.org/)
+#### [Telegram for Win](https://desktop.telegram.org/)
 
 ## 镜像、加速
 #### [镜像导航mirrorz](https://mirrorz.org/)
