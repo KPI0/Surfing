@@ -33,4 +33,3 @@
 #### [scholar.scqylaw.com](http://scholar.scqylaw.com/)
 #### [jsdelivr](https://www.jsdelivr.com/)
 #### [GitHub文件加速](https://gitcdn.top/)
-#### [GitHub Mirror 加速源](https://www.github.do/)
