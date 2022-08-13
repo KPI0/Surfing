@@ -32,4 +32,4 @@
 #### [ac.scmor.com](https://ac.scmor.com/)
 #### [scholar.scqylaw.com](http://scholar.scqylaw.com/)
 #### [jsdelivr](https://www.jsdelivr.com/)
-#### [GitHub文件加速](https://gitcdn.top/)
+#### [GitHub文件加速下载](https://gitcdn.top/)
