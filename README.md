@@ -17,7 +17,7 @@
 #### [bifrostv](https://github.com/v2raym/bifrostv)
 #### [Telegram](https://telegram.org/android)、[Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)
 
-## Windows、MacOS
+## Windows、MacOS、Linux
 #### [Clash_for_Windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)
 #### [v2rayN](https://github.com/2dust/v2rayN/releases)
 #### [Shadowsocks-Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)
