@@ -1,7 +1,7 @@
 [<img align="right" src="https://github.com/KPI0/academic-research/blob/main/image/ahmem-sc1cm.png" width="400px" />](https://baike.baidu.com/item/%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A/662146?fr=aladdin)
 
-<details>
-<summary>## Mobile apps</summary>
+##<details>
+##<summary>Mobile apps</summary>
 #### [Shadowsocksr-v2ray-trojan-Android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)
 #### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases) 
 #### [Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android/releases)
@@ -15,7 +15,7 @@
 #### [Pharos](https://github.com/PharosVip/Pharos-Android-Test/releases)
 #### [bifrostv](https://github.com/v2raym/bifrostv)
 #### [Telegram](https://telegram.org/apps)、[Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)
-</details>
+##</details>
 
 
 ## Desktop apps
