@@ -16,18 +16,18 @@
   [igniter](https://github.com/trojan-gfw/igniter/releases)<br>
   [Pharos](https://github.com/PharosVip/Pharos-Android-Test/releases)<br>
   ~~[bifrostv](https://github.com/v2raym/bifrostv)~~<br>
-[Telegram](https://telegram.org/android)<br>
-[Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)<br>
+  [Telegram](https://telegram.org/android)<br>
+  [Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)<br>
 </details>
 <details>
   <summary>iOS</summary>
   
-[shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)<br>
-[Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)<br>
-[Choc](https://apps.apple.com/us/app/choc/id1582542227)<br>
-[Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)<br>
-[Kitsunebi](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073)<br>
-[Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)<br>
+  [shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)<br>
+  [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)<br>
+  [Choc](https://apps.apple.com/us/app/choc/id1582542227)<br>
+  [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)<br>
+  [Kitsunebi](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073)<br>
+  [Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)<br>
 </details>
 <details>
   <summary>other</summary>
@@ -37,27 +37,27 @@
 <details>
   <summary>Windows</summary>
   
-[Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash中文汉化包](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)<br>
-[v2rayN](https://github.com/2dust/v2rayN/releases)<br>
-[Shadowsocks-Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)<br>
-[ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows/releases)<br>
-[SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap%E5%B8%B8%E7%94%A8%E7%89%88%E6%9C%AC%E5%8F%8A%E5%8E%BB%E5%B9%BF%E5%91%8A)<br>
-[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)<br>
-[Telegram](https://telegram.org/dl/desktop/win64)<br>
+  [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash中文汉化包](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)<br>
+  [v2rayN](https://github.com/2dust/v2rayN/releases)<br>
+  [Shadowsocks-Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)<br>
+  [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows/releases)<br>
+  [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap%E5%B8%B8%E7%94%A8%E7%89%88%E6%9C%AC%E5%8F%8A%E5%8E%BB%E5%B9%BF%E5%91%8A)<br>
+  [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)<br>
+  [Telegram](https://telegram.org/dl/desktop/win64)<br>
 </details>
 <details>
   <summary>macOS</summary>
   
-[Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)<br>
-[ClashX](https://github.com/yichengchen/clashX/releases)<br>
-[ShadowsocksX](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)<br>
-[V2rayU](https://github.com/yanue/V2rayU/releases)<br>
-[Telegram](https://telegram.org/dl/desktop/mac)
+  [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)<br>
+  [ClashX](https://github.com/yichengchen/clashX/releases)<br>
+  [ShadowsocksX](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)<br>
+  [V2rayU](https://github.com/yanue/V2rayU/releases)<br>
+  [Telegram](https://telegram.org/dl/desktop/mac)
 </details>
 <details>
   <summary>Linux</summary>
  
-[Telegram](https://telegram.org/dl/desktop/linux)<br>
+  [Telegram](https://telegram.org/dl/desktop/linux)<br>
 </details>
 <details>
   <summary>other</summary> 
@@ -67,24 +67,24 @@
 <details>
   <summary>镜像</summary>
   
-[镜像导航mirrorz](https://mirrorz.org/)<br>
-[清华大学开源软件镜像站](https://mirrors4.tuna.tsinghua.edu.cn/)<br>
-[MSDN我告诉你](https://msdn.itellyou.cn/)<br>
-[万维百科](https://www.wanweibaike.net/)<br>
-[library.ac.cn](https://www.library.ac.cn/)<br>
-[ac.scmor.com](https://ac.scmor.com/)<br>
-[scholar.scqylaw.com](http://scholar.scqylaw.com/)<br>
-[jsdelivr](https://www.jsdelivr.com/)<br>
+  [镜像导航mirrorz](https://mirrorz.org/)<br>
+  [清华大学开源软件镜像站](https://mirrors4.tuna.tsinghua.edu.cn/)<br>
+  [MSDN我告诉你](https://msdn.itellyou.cn/)<br>
+  [万维百科](https://www.wanweibaike.net/)<br>
+  [library.ac.cn](https://www.library.ac.cn/)<br>
+  [ac.scmor.com](https://ac.scmor.com/)<br>
+  [scholar.scqylaw.com](http://scholar.scqylaw.com/)<br>
+  [jsdelivr](https://www.jsdelivr.com/)<br>
 </details>
 <details>
   <summary>VPN proxy</summary>
 
-[公共VPN中继服务器](https://www.vpngate.net/cn/)<br>
+  [公共VPN中继服务器](https://www.vpngate.net/cn/)<br>
 </details>
 <details>
   <summary>文件加速</summary>
   
-[GitHub文件加速下载](https://gitcdn.top/)<br>
+  [GitHub文件加速下载](https://gitcdn.top/)<br>
 </details>
 <details>
   <summary>other</summary>
