@@ -45,6 +45,7 @@
   [v2ray-core](https://github.com/v2fly/v2ray-core/releases)<br>
   [v2rayA](https://github.com/v2rayA/v2rayA/releases)<br>
   [WinXray](https://github.com/TheMRLL/WinXray)<br>
+  [netch](https://github.com/netchx/netch/releases)<br>
   [Shadowsocks-Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)<br>
   [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows/releases)<br>
   [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap%E5%B8%B8%E7%94%A8%E7%89%88%E6%9C%AC%E5%8F%8A%E5%8E%BB%E5%B9%BF%E5%91%8A)<br>
