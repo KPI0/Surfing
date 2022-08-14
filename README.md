@@ -9,6 +9,7 @@
 #### [shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
 #### [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)
 #### [Choc](https://apps.apple.com/us/app/choc/id1582542227)
+#### [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)
 #### [ClashRForAndroid](https://github.com/naicfeng/ClashRForAndroid/releases)
 #### [kitsunebi-Android](https://github.com/eycorsican/kitsunebi-android/releases)
 #### [SagerNet](https://github.com/SagerNet/SagerNet/releases)
