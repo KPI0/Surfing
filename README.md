@@ -105,6 +105,7 @@
   <summary>VPN proxy</summary>
 
   [公共VPN中继服务器](https://www.vpngate.net/cn/)<br>
+  [Free Proxies](https://sspool.herokuapp.com/)<br>
 </details>
 <details>
   <summary>other</summary>
