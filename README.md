@@ -97,14 +97,14 @@
   [jsdelivr](https://www.jsdelivr.com/)<br>
 </details>
 <details>
+  <summary>加速</summary>
+  
+  [GitHub文件加速下载](https://gitcdn.top/)<br>
+</details>
+<details>
   <summary>VPN proxy</summary>
 
   [公共VPN中继服务器](https://www.vpngate.net/cn/)<br>
-</details>
-<details>
-  <summary>文件加速</summary>
-  
-  [GitHub文件加速下载](https://gitcdn.top/)<br>
 </details>
 <details>
   <summary>other</summary>
