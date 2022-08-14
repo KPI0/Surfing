@@ -16,6 +16,8 @@
 [igniter](https://github.com/trojan-gfw/igniter/releases)<br>
 [Pharos](https://github.com/PharosVip/Pharos-Android-Test/releases)<br>
 [bifrostv](https://github.com/v2raym/bifrostv)<br>
+[Telegram](https://telegram.org/android)<br>
+[Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)<br>
 </details>
 <details>
   <summary>iOS</summary>
@@ -25,8 +27,7 @@
 [Choc](https://apps.apple.com/us/app/choc/id1582542227)<br>
 [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)<br>
 [Kitsunebi](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073)<br>
-[Telegram](https://telegram.org/apps)<br>
-[Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)<br>
+[Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)<br>
 </details>
 
 ## Desktop apps
@@ -46,7 +47,8 @@
 </details>
 <details>
   <summary>Linux</summary>
-  
+ 
+[Telegram](https://telegram.org/dl/desktop/linux)<br>
 </details>
 
 ## Websites
