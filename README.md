@@ -23,7 +23,8 @@
 [Choc](https://apps.apple.com/us/app/choc/id1582542227)<br>
 [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)<br>
 [Kitsunebi](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073)<br>
-[Telegram](https://telegram.org/apps)、[Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)<br>
+[Telegram](https://telegram.org/apps)<br>
+[Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)<br>
 </details>
 
 ## Desktop apps
