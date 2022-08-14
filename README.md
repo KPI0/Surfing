@@ -48,7 +48,7 @@
 <details>
   <summary>macOS</summary>
   
-  [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)<br>
+  [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash中文汉化包](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)<br>
   [ClashX](https://github.com/yichengchen/clashX/releases)<br>
   [ShadowsocksX](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)<br>
   [V2rayU](https://github.com/yanue/V2rayU/releases)<br>
@@ -58,7 +58,7 @@
 <details>
   <summary>Linux</summary>
   
-  [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)<br>
+  [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash中文汉化包](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)<br>
   [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)<br>
   [Telegram](https://telegram.org/dl/desktop/linux)<br>
 </details>
