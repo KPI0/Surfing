@@ -58,13 +58,30 @@
 </details>
 
 ## Websites
-#### [镜像导航mirrorz](https://mirrorz.org/)
-#### [清华大学开源软件镜像站](https://mirrors4.tuna.tsinghua.edu.cn/)
-#### [MSDN我告诉你](https://msdn.itellyou.cn/)
-#### [万维百科](https://www.wanweibaike.net/)
-#### [library.ac.cn](https://www.library.ac.cn/)
-#### [ac.scmor.com](https://ac.scmor.com/)
-#### [scholar.scqylaw.com](http://scholar.scqylaw.com/)
-#### [jsdelivr](https://www.jsdelivr.com/)
-#### [GitHub文件加速下载](https://gitcdn.top/)
-#### [公共VPN中继服务器](https://www.vpngate.net/cn/)
+<details>
+  <summary>镜像</summary>
+  
+[镜像导航mirrorz](https://mirrorz.org/)<br>
+[清华大学开源软件镜像站](https://mirrors4.tuna.tsinghua.edu.cn/)<br>
+[MSDN我告诉你](https://msdn.itellyou.cn/)<br>
+[万维百科](https://www.wanweibaike.net/)<br>
+[library.ac.cn](https://www.library.ac.cn/)<br>
+[ac.scmor.com](https://ac.scmor.com/)<br>
+[scholar.scqylaw.com](http://scholar.scqylaw.com/)<br>
+[jsdelivr](https://www.jsdelivr.com/)<br>
+</details>
+<details>
+  <summary>VPN proxy</summary>
+
+[公共VPN中继服务器](https://www.vpngate.net/cn/)<br>
+</details>
+<details>
+  <summary>文件加速</summary>
+  
+[GitHub文件加速下载](https://gitcdn.top/)<br>
+</details>
+<details>
+  <summary>other</summary>
+  
+</details>
+
