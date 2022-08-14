@@ -37,8 +37,7 @@
 <details>
   <summary>Windows</summary>
   
-[Clash_for_Windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)<br>
-[clashX](https://github.com/yichengchen/clashX)<br>
+[Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)<br>
 [v2rayN](https://github.com/2dust/v2rayN/releases)<br>
 [Shadowsocks-Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)<br>
 [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows/releases)<br>
@@ -46,7 +45,9 @@
 </details>
 <details>
   <summary>macOS</summary>
-[Telegram Desktop](https://desktop.telegram.org/)
+[Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)<br>
+[ClashX](https://github.com/yichengchen/clashX/releases)<br>
+[Telegram Desktop](https://telegram.org/dl/desktop/mac)
 </details>
 <details>
   <summary>Linux</summary>
