@@ -28,6 +28,7 @@
   [Choc](https://apps.apple.com/us/app/choc/id1582542227)<br>
   [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)<br>
   [Kitsunebi](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073)<br>
+  [OneClick](https://apps.apple.com/us/app/id1545555197)<br>
   [Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)<br>
 </details>
 <details>
