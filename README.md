@@ -43,6 +43,7 @@
   [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta/releases)<br>
   [v2rayN](https://github.com/2dust/v2rayN/releases)<br>
   [v2ray-core](https://github.com/v2fly/v2ray-core/releases)<br>
+  [v2rayA](https://github.com/v2rayA/v2rayA/releases)<br>
   [Shadowsocks-Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)<br>
   [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows/releases)<br>
   [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap%E5%B8%B8%E7%94%A8%E7%89%88%E6%9C%AC%E5%8F%8A%E5%8E%BB%E5%B9%BF%E5%91%8A)<br>
@@ -69,6 +70,7 @@
   [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta/releases)<br>
   [v2ray-core](https://github.com/v2fly/v2ray-core/releases)<br>
   [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)<br>
+  [v2rayA](https://github.com/v2rayA/v2rayA/releases)<br>
   [Telegram](https://telegram.org/dl/desktop/linux)<br>
 </details>
 <details>
