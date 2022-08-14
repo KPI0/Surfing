@@ -16,6 +16,7 @@
 #### [igniter](https://github.com/trojan-gfw/igniter/releases)
 #### [Pharos](https://github.com/PharosVip/Pharos-Android-Test/releases)
 #### [bifrostv](https://github.com/v2raym/bifrostv)
+#### [Kitsunebi](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073)
 #### [Telegram](https://telegram.org/apps)、[Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)
 
 
