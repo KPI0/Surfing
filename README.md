@@ -37,7 +37,8 @@
 <details>
   <summary>Windows</summary>
   
-  [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash中文汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)、[Clash中文版](https://github.com/ender-zhao/Clash-for-Windows_Chinese)<br>
+  [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash for Windows中文汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)、[Clash for Windows中文版](https://github.com/ender-zhao/Clash-for-Windows_Chinese)<br>
+  [clash](https://github.com/Dreamacro/clash)<br>
   [v2rayN](https://github.com/2dust/v2rayN/releases)<br>
   [Shadowsocks-Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)<br>
   [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows/releases)<br>
@@ -48,7 +49,8 @@
 <details>
   <summary>macOS</summary>
   
-  [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash中文汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)<br>
+  [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash for Windows中文汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)<br>
+  [clash](https://github.com/Dreamacro/clash)<br>
   [ClashX](https://github.com/yichengchen/clashX/releases)<br>
   [ShadowsocksX](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)<br>
   [V2rayU](https://github.com/yanue/V2rayU/releases)<br>
@@ -58,7 +60,8 @@
 <details>
   <summary>Linux</summary>
   
-  [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash中文汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)<br>
+  [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash for Windows中文汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)<br>
+  [clash](https://github.com/Dreamacro/clash)<br>
   [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)<br>
   [Telegram](https://telegram.org/dl/desktop/linux)<br>
 </details>
