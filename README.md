@@ -7,6 +7,7 @@
 #### [ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android/releases)
 #### [v2rayNG](https://github.com/2dust/v2rayNG/releases)
 #### [shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
+#### [Choc](https://apps.apple.com/us/app/choc/id1582542227)
 #### [ClashRForAndroid](https://github.com/naicfeng/ClashRForAndroid/releases)
 #### [kitsunebi-Android](https://github.com/eycorsican/kitsunebi-android/releases)
 #### [SagerNet](https://github.com/SagerNet/SagerNet/releases)
