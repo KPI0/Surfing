@@ -1,11 +1,14 @@
 [<img align="right" src="https://github.com/KPI0/academic-research/blob/main/image/ahmem-sc1cm.png" width="400px" />](https://baike.baidu.com/item/%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A/662146?fr=aladdin)
 
-## Mobile apps
-#### [Shadowsocksr-v2ray-trojan-Android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)
-#### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases) 
-#### [Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android/releases)
-#### [ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android/releases)
-#### [v2rayNG](https://github.com/2dust/v2rayNG/releases)
+## Mobile apps  
+<details>
+  <summary>Android</summary>
+#### [Shadowsocksr-v2ray-trojan-Android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)<br>
+#### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)<br>
+#### [Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android/releases)<br>
+#### [ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android/releases)<br>
+#### [v2rayNG](https://github.com/2dust/v2rayNG/releases)<br>
+</details>
 #### [shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
 #### [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)
 #### [Choc](https://apps.apple.com/us/app/choc/id1582542227)
