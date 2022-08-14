@@ -19,6 +19,7 @@
 
 ## Desktop apps
 #### [Clash_for_Windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)
+#### [clashX](https://github.com/yichengchen/clashX)
 #### [v2rayN](https://github.com/2dust/v2rayN/releases)
 #### [Shadowsocks-Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)
 #### [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows/releases)
