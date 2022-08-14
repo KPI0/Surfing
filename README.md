@@ -34,3 +34,4 @@
 #### [scholar.scqylaw.com](http://scholar.scqylaw.com/)
 #### [jsdelivr](https://www.jsdelivr.com/)
 #### [GitHub文件加速下载](https://gitcdn.top/)
+#### [公共VPN中继服务器](https://www.vpngate.net/cn/)|
