@@ -29,6 +29,9 @@
 [Kitsunebi](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073)<br>
 [Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)<br>
 </details>
+<details>
+  <summary>other</summary>
+</details>
 
 ## Desktop apps
 <details>
@@ -49,6 +52,9 @@
   <summary>Linux</summary>
  
 [Telegram](https://telegram.org/dl/desktop/linux)<br>
+</details>
+<details>
+  <summary>other</summary> 
 </details>
 
 ## Websites
