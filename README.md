@@ -43,13 +43,14 @@
 [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows/releases)<br>
 [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap%E5%B8%B8%E7%94%A8%E7%89%88%E6%9C%AC%E5%8F%8A%E5%8E%BB%E5%B9%BF%E5%91%8A)<br>
 [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)<br>
+[Telegram](https://telegram.org/dl/desktop/win64)<br>
 </details>
 <details>
   <summary>macOS</summary>
   
 [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)<br>
 [ClashX](https://github.com/yichengchen/clashX/releases)<br>
-[Telegram Desktop](https://telegram.org/dl/desktop/mac)
+[Telegram](https://telegram.org/dl/desktop/mac)
 </details>
 <details>
   <summary>Linux</summary>
