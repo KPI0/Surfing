@@ -9,20 +9,22 @@
 [ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android/releases)<br>
 [v2rayNG](https://github.com/2dust/v2rayNG/releases)<br>
 </details>
-#### [shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
-#### [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)
-#### [Choc](https://apps.apple.com/us/app/choc/id1582542227)
-#### [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)
-#### [ClashRForAndroid](https://github.com/naicfeng/ClashRForAndroid/releases)
-#### [kitsunebi-Android](https://github.com/eycorsican/kitsunebi-android/releases)
-#### [SagerNet](https://github.com/SagerNet/SagerNet/releases)
-#### [Surfboard](https://manual.getsurfboard.com/)
-#### [igniter](https://github.com/trojan-gfw/igniter/releases)
-#### [Pharos](https://github.com/PharosVip/Pharos-Android-Test/releases)
-#### [bifrostv](https://github.com/v2raym/bifrostv)
-#### [Kitsunebi](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073)
-#### [Telegram](https://telegram.org/apps)、[Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)
-
+<details>
+  <summary>iOS</summary>
+[shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
+[Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)
+[Choc](https://apps.apple.com/us/app/choc/id1582542227)
+[Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)
+[ClashRForAndroid](https://github.com/naicfeng/ClashRForAndroid/releases)
+[kitsunebi-Android](https://github.com/eycorsican/kitsunebi-android/releases)
+[SagerNet](https://github.com/SagerNet/SagerNet/releases)
+[Surfboard](https://manual.getsurfboard.com/)
+[igniter](https://github.com/trojan-gfw/igniter/releases)
+[Pharos](https://github.com/PharosVip/Pharos-Android-Test/releases)
+[bifrostv](https://github.com/v2raym/bifrostv)
+[Kitsunebi](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073)
+[Telegram](https://telegram.org/apps)、[Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)
+</details>
 
 ## Desktop apps
 #### [Clash_for_Windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)
