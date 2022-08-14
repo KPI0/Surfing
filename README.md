@@ -50,6 +50,7 @@
   [Shadowsocks-Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)<br>
   [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows/releases)<br>
   [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap%E5%B8%B8%E7%94%A8%E7%89%88%E6%9C%AC%E5%8F%8A%E5%8E%BB%E5%B9%BF%E5%91%8A)<br>
+  [trojan](https://github.com/trojan-gfw/trojan/releases)<br>
   [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)<br>
   [Telegram](https://telegram.org/dl/desktop/win64)<br>
 </details>
@@ -62,6 +63,7 @@
   [ShadowsocksX](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)<br>
   [v2ray-core](https://github.com/v2fly/v2ray-core/releases)<br>
   [V2rayU](https://github.com/yanue/V2rayU/releases)<br>
+  [trojan](https://github.com/trojan-gfw/trojan/releases)<br>
   [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)<br>
   [Telegram](https://telegram.org/dl/desktop/mac)<br>
 </details>
@@ -74,6 +76,7 @@
   [v2ray-core](https://github.com/v2fly/v2ray-core/releases)<br>
   [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)<br>
   [v2rayA](https://github.com/v2rayA/v2rayA/releases)<br>
+  [trojan](https://github.com/trojan-gfw/trojan/releases)<br>
   [Telegram](https://telegram.org/dl/desktop/linux)<br>
 </details>
 <details>
