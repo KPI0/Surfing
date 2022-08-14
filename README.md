@@ -4,18 +4,18 @@
 <details>
   <summary>Android</summary>
   
-[Shadowsocksr-v2ray-trojan-Android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)<br>
-[ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)<br>
-[Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android/releases)<br>
-[ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android/releases)<br>
-[v2rayNG](https://github.com/2dust/v2rayNG/releases)<br>
-[ClashRForAndroid](https://github.com/naicfeng/ClashRForAndroid/releases)<br>
-[kitsunebi-Android](https://github.com/eycorsican/kitsunebi-android/releases)<br>
-[SagerNet](https://github.com/SagerNet/SagerNet/releases)<br>
-[Surfboard](https://manual.getsurfboard.com/)<br>
-[igniter](https://github.com/trojan-gfw/igniter/releases)<br>
-[Pharos](https://github.com/PharosVip/Pharos-Android-Test/releases)<br>
-~~[bifrostv](https://github.com/v2raym/bifrostv)~~<br>
+  [Shadowsocksr-v2ray-trojan-Android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)<br>
+  [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)<br>
+  [Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android/releases)<br>
+  [ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android/releases)<br>
+  [v2rayNG](https://github.com/2dust/v2rayNG/releases)<br>
+  [ClashRForAndroid](https://github.com/naicfeng/ClashRForAndroid/releases)<br>
+  [kitsunebi-Android](https://github.com/eycorsican/kitsunebi-android/releases)<br>
+  [SagerNet](https://github.com/SagerNet/SagerNet/releases)<br>
+  [Surfboard](https://manual.getsurfboard.com/)<br>
+  [igniter](https://github.com/trojan-gfw/igniter/releases)<br>
+  [Pharos](https://github.com/PharosVip/Pharos-Android-Test/releases)<br>
+  ~~[bifrostv](https://github.com/v2raym/bifrostv)~~<br>
 [Telegram](https://telegram.org/android)<br>
 [Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)<br>
 </details>
@@ -50,6 +50,8 @@
   
 [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)<br>
 [ClashX](https://github.com/yichengchen/clashX/releases)<br>
+[ShadowsocksX](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)<br>
+[V2rayU](https://github.com/yanue/V2rayU/releases)<br>
 [Telegram](https://telegram.org/dl/desktop/mac)
 </details>
 <details>
