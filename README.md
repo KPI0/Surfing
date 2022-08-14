@@ -3,7 +3,7 @@
 ## Mobile apps  
 <details>
   <summary>Android</summary>
-[[Shadowsocksr-v2ray-trojan-Android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)]<br>
+[Shadowsocksr-v2ray-trojan-Android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)<br>
 [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)<br>
 [Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android/releases)<br>
 [ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android/releases)<br>
