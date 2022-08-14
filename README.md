@@ -3,11 +3,11 @@
 ## Mobile apps  
 <details>
   <summary>Android</summary>
-#### [Shadowsocksr-v2ray-trojan-Android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)<br>
-#### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)<br>
-#### [Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android/releases)<br>
-#### [ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android/releases)<br>
-#### [v2rayNG](https://github.com/2dust/v2rayNG/releases)<br>
+[Shadowsocksr-v2ray-trojan-Android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)<br>
+[ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)<br>
+[Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android/releases)<br>
+[ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android/releases)<br>
+[v2rayNG](https://github.com/2dust/v2rayNG/releases)<br>
 </details>
 #### [shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
 #### [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)
