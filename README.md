@@ -33,16 +33,20 @@
 <details>
   <summary>Windows</summary>
   
-#### [Clash_for_Windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)<br>
-#### [clashX](https://github.com/yichengchen/clashX)<br>
-#### [v2rayN](https://github.com/2dust/v2rayN/releases)<br>
-#### [Shadowsocks-Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)<br>
-#### [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows/releases)<br>
-#### [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)<br>
+[Clash_for_Windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)<br>
+[clashX](https://github.com/yichengchen/clashX)<br>
+[v2rayN](https://github.com/2dust/v2rayN/releases)<br>
+[Shadowsocks-Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)<br>
+[ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows/releases)<br>
+[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)<br>
 </details>
 <details>
   <summary>macOS</summary>
-#### [Telegram Desktop](https://desktop.telegram.org/)
+[Telegram Desktop](https://desktop.telegram.org/)
+</details>
+<details>
+  <summary>Linux</summary>
+  
 </details>
 
 ## Websites
