@@ -15,7 +15,7 @@
 [Surfboard](https://manual.getsurfboard.com/)<br>
 [igniter](https://github.com/trojan-gfw/igniter/releases)<br>
 [Pharos](https://github.com/PharosVip/Pharos-Android-Test/releases)<br>
-[bifrostv](https://github.com/v2raym/bifrostv)<br>
+~~[bifrostv](https://github.com/v2raym/bifrostv)~~<br>
 [Telegram](https://telegram.org/android)<br>
 [Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)<br>
 </details>
