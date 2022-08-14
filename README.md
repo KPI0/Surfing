@@ -94,11 +94,11 @@
   [library.ac.cn](https://www.library.ac.cn/)<br>
   [ac.scmor.com](https://ac.scmor.com/)<br>
   [scholar.scqylaw.com](http://scholar.scqylaw.com/)<br>
-  [jsdelivr](https://www.jsdelivr.com/)<br>
 </details>
 <details>
   <summary>加速</summary>
   
+  [jsdelivr](https://www.jsdelivr.com/)<br>
   [GitHub文件加速下载](https://gitcdn.top/)<br>
 </details>
 <details>
