@@ -94,6 +94,8 @@
   [library.ac.cn](https://www.library.ac.cn/)<br>
   [ac.scmor.com](https://ac.scmor.com/)<br>
   [scholar.scqylaw.com](http://scholar.scqylaw.com/)<br>
+  [github镜像1](https://hub.fastgit.xyz/)<br>
+  [github镜像2](https://hub.0z.gs/)<br>
 </details>
 <details>
   <summary>加速</summary>
