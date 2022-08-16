@@ -92,8 +92,8 @@
   [MSDN我告诉你](https://msdn.itellyou.cn/)<br>
   [万维百科](https://www.wanweibaike.net/)<br>
   [library.ac.cn](https://www.library.ac.cn/)<br>
-  [ac.scmor.com](https://ac.scmor.com/)<br>
-  [scholar.scqylaw.com](http://scholar.scqylaw.com/)<br>
+  [谷歌学术镜像_Google学术搜索导航](https://ac.scmor.com/)<br>
+  [谷歌学术镜像_Google镜像站](http://scholar.scqylaw.com/)<br>
   [github镜像1](https://hub.fastgit.xyz/)<br>
   [github镜像2](https://hub.0z.gs/)<br>
 </details>
