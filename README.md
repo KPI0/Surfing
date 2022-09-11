@@ -78,6 +78,7 @@
   [v2rayA](https://github.com/v2rayA/v2rayA/releases)<br>
   [trojan](https://github.com/trojan-gfw/trojan/releases)<br>
   [Telegram](https://telegram.org/dl/desktop/linux)<br>
+  [Unigram](https://unigramdev.github.io/)<br>
 </details>
 <details>
   <summary>other</summary> 
