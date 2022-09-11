@@ -17,7 +17,7 @@
   [igniter](https://github.com/trojan-gfw/igniter/releases)<br>
   [Pharos](https://github.com/PharosVip/Pharos-Android-Test/releases)<br>
   ~~[bifrostv](https://github.com/v2raym/bifrostv)~~<br>
-  [Telegram](https://telegram.org/android)、[Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)、[Telegram X](https://github.com/TGX-Android/Telegram-X)<br>
+  [Telegram](https://telegram.org/android)、[Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)、[Telegram X](https://github.com/TGX-Android/Telegram-X)、[Plus Messenger](https://play.google.com/store/apps/details?id=org.telegram.plus)<br>
 </details>
 <details>
   <summary>iOS</summary>
