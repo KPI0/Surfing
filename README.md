@@ -117,5 +117,6 @@
 <details>
   <summary>other</summary>
   
+  [俄罗斯软件分享网站lrepacks.net](https://lrepacks.net/)
 </details>
 
