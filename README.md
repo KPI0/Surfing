@@ -117,6 +117,7 @@
 <details>
   <summary>other</summary>
   
-  [俄罗斯软件分享网站lrepacks.net](https://lrepacks.net/)
+  [俄罗斯软件分享网站lrepacks.net](https://lrepacks.net/)<br>
+  [思维导图diagrams.net](https://app.diagrams.net/)<br>
 </details>
 
