@@ -121,6 +121,9 @@
 ```
 https://pre.paimon.gq/clash.yaml
 ```
+```
+https://raw.fastgit.org/anaer/Sub/main/clash.yaml
+```
   </details>
 </details>
 <details>
