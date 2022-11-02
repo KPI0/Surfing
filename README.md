@@ -115,8 +115,11 @@
   [公共VPN中继服务器](https://www.vpngate.net/cn/)<br>
   [Free Proxies](https://sspool.herokuapp.com/)<br>
   <details>
-  <summary>节点订阅链接</summary>
-
+  <summary>节点订阅链接（只收集公开的节点池，感谢各位博主）</summary>
+- Clash
+```
+https://pre.paimon.gq/clash.yaml
+```
   </details>
 </details>
 <details>
