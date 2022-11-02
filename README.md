@@ -124,6 +124,9 @@ https://pre.paimon.gq/clash.yaml
 ```
 https://raw.fastgit.org/anaer/Sub/main/clash.yaml
 ```
+```
+https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity.yaml
+```
 - V2
 ```
 https://raw.fastgit.org/Pawdroid/Free-servers/main/sub
