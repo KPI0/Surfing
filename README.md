@@ -138,5 +138,6 @@ https://raw.fastgit.org/Pawdroid/Free-servers/main/sub
   
   [俄罗斯软件分享网站lrepacks.net](https://lrepacks.net/)<br>
   [思维导图diagrams.net](https://app.diagrams.net/)<br>
+  [Z-library](https://z-lib.is/)<br>
 </details>
 
