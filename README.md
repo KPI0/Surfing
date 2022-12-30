@@ -132,6 +132,9 @@ https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity.yam
 ```
 https://raw.fastgit.org/Pawdroid/Free-servers/main/sub
 ```
+```
+https://raw.githubusercontent.com/KPI0/Surfing/main/v2_link
+```
   </details>
 </details>
 <details>
