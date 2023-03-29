@@ -2,7 +2,7 @@
 ```
 vi /etc/sysconfig/network-scripts/ifcfg-ensxxx
 ```
-2.修改
+2.修改   
 （1）bootproto=static   
 #设置网卡获得ip地址的方式，可能的选项为static，dhcp或bootp，分别对应静态指定的 ip地址，通过dhcp协议获得的ip地址，通过bootp协议获得的ip地址    
 （2）onboot=yes   
