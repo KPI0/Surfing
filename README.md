@@ -90,6 +90,9 @@
   
   [镜像导航mirrorz](https://mirrorz.org/)<br>
   [清华大学开源软件镜像站](https://mirrors4.tuna.tsinghua.edu.cn/)<br>
+  [中国科技大学镜像站](https://mirrors.ustc.edu.cn/)</br>
+  [阿里巴巴开源镜像站](https://developer.aliyun.com/mirror)</br>
+  [网易开源镜像站](http://mirrors.163.com/)</br>
   [MSDN我告诉你](https://msdn.itellyou.cn/)<br>
   [UUP dump](https://www.uupdump.cn/)<br>
   [万维百科](https://www.wanweibaike.net/)<br>
