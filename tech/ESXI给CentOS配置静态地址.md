@@ -2,17 +2,27 @@
 ```
 vi /etc/sysconfig/network-scripts/ifcfg-ensxxx
 ```
-2.修改   
-（1）bootproto=static   
-#设置网卡获得ip地址的方式，可能的选项为static，dhcp或bootp，分别对应静态指定的 ip地址，通过dhcp协议获得的ip地址，通过bootp协议获得的ip地址    
-（2）onboot=yes   
-yes #系统启动时是否设置此网络接口，设置为yes时，系统启动时激活此设备   
-新增   
-IPADDR=192.168.3.60   
-NETMASK=255.255.255.0   
-GATEWAY=192.168.3.1   
-DNS1=119.29.29.29   
-DNS2=8.8.8.8   
+2.修改部分参数   
+```
+bootproto=static
+```
+设置网卡获得ip地址的方式，可选的选项有`static`、`dhcp`、`bootp`，分别对应静态指定的ip地址，通过dhcp协议获得的ip地址，通过bootp协议获得的ip地址。
+```
+onboot=yes
+```
+系统启动时是否设置此网络接口，如果为`no`就改为`yes`即可。设置为yes时，表示网卡设备自动启动系统启动时激活此设备。   
+3.增加部分参数
+```
+#静态ip地址
+IPADDR=192.168.31.9
+#子网掩码
+NETMASK=255.255.255.0
+#网关
+GATEWAY=192.168.31.1
+#DNS
+DNS1=114.114.114.114
+DNS2=223.5.5.5
+```
 3.重启网络  
 ```
 service network restart
