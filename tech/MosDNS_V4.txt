@@ -1,0 +1,187 @@
+log:
+  level: info
+  file: "/tmp/mosdns.log"
+
+api:
+  http: "0.0.0.0:9091"
+
+include: []
+
+data_providers:
+  - tag: geoip
+    file: "/usr/share/v2ray/geoip.dat"
+    auto_reload: true
+
+  - tag: geosite
+    file: "/usr/share/v2ray/geosite.dat"
+    auto_reload: true
+
+  - tag: whitelist
+    file: "/etc/mosdns/rule/whitelist.txt"
+    auto_reload: true
+
+  - tag: blocklist
+    file: "/etc/mosdns/rule/blocklist.txt"
+    auto_reload: true
+
+  - tag: greylist
+    file: "/etc/mosdns/rule/greylist.txt"
+    auto_reload: true
+
+  - tag: hosts
+    file: "/etc/mosdns/rule/hosts.txt"
+    auto_reload: true
+
+  - tag: redirect
+    file: "/etc/mosdns/rule/redirect.txt"
+    auto_reload: true
+
+  - tag: local_ptr
+    file: "/etc/mosdns/rule/local-ptr.txt"
+    auto_reload: true
+
+plugins:
+  - tag: lazy_cache
+    type: cache
+    args:
+      size: 20480
+      lazy_cache_ttl: 259200
+
+  - tag: modify_ttl
+    type: ttl
+    args:
+      minimal_ttl: 0
+      maximum_ttl: 0
+
+  - tag: "forward_local"
+    type: forward
+    args:
+      upstream:
+        - addr: "https://dns.alidns.com/dns-query"
+        - addr: "https://1.12.12.12/dns-query"
+        - addr: "https://doh.pub/dns-query"
+        - addr: "udp://223.5.5.5"
+        - addr: "udp://61.128.192.68"
+        - addr: "udp://119.29.29.29"
+        - addr: "223.6.6.6"
+        - addr: "61.128.128.68"
+        - addr: "114.114.114.114"
+
+  - tag: "forward_remote"
+    type: fast_forward
+    args:
+      upstream:
+        - addr: "127.0.0.1:7874"
+
+  - tag: query_is_whitelist_domain
+    type: query_matcher
+    args:
+      domain:
+        - "provider:whitelist"
+
+  - tag: query_is_blocklist_domain
+    type: query_matcher
+    args:
+      domain:
+        - "provider:blocklist"
+
+  - tag: query_is_greylist_domain
+    type: query_matcher
+    args:
+      domain:
+        - "provider:greylist"
+
+  - tag: query_is_hosts_domain
+    type: hosts
+    args:
+      hosts:
+        - "provider:hosts"
+
+  - tag: query_is_redirect_domain
+    type: redirect
+    args:
+      rule:
+        - "provider:redirect"
+
+  - tag: query_is_local_domain
+    type: query_matcher
+    args:
+      domain:
+        - "provider:geosite:cn"
+
+  - tag: query_is_non_local_domain
+    type: query_matcher
+    args:
+      domain:
+        - "provider:geosite:geolocation-!cn"
+
+  - tag: response_has_local_ip
+    type: response_matcher
+    args:
+      ip:
+        - "provider:geoip:cn"
+
+  - tag: match_local_ptr
+    type: query_matcher
+    args:
+      qtype: [12]
+      domain:
+        - "provider:local_ptr"
+
+  - tag: match_qtype65
+    type: query_matcher
+    args:
+      qtype: [65]
+
+  - tag: "main_sequence"
+    type: "sequence"
+    args:
+      exec:
+        - _misc_optm
+        - query_is_hosts_domain
+        - query_is_redirect_domain
+
+        - if: query_is_whitelist_domain
+          exec:
+            - forward_local
+            - modify_ttl
+            - _return
+
+        - lazy_cache
+
+        - if: query_is_greylist_domain
+          exec:
+            - forward_remote
+            - modify_ttl
+            - _return
+
+        - if: query_is_local_domain
+          exec:
+            - forward_local
+            - modify_ttl
+            - _return
+
+        - if: query_is_non_local_domain
+          exec:
+            - _prefer_ipv4
+            - forward_remote
+            - modify_ttl
+            - _return
+        - primary:
+            - forward_local
+            - if: "(! response_has_local_ip) && [_response_valid_answer]"
+              exec:
+                - _drop_response
+          secondary:
+            - _prefer_ipv4
+            - forward_remote
+            - modify_ttl
+          fast_fallback: 150
+
+servers:
+  - exec: main_sequence
+    listeners:
+      - protocol: udp
+        addr: "127.0.0.1:5335"
+      - protocol: tcp
+        addr: "127.0.0.1:5335"
