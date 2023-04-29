@@ -2,7 +2,7 @@ bind_host: 0.0.0.0
 bind_port: 3000
 users:
   - name: root
-    password: $2y$10$YHbPNBWG9KPwG8/izjWj8u1jHseXYlUXlah2VYKDudZsicMMf8KUm
+    password: $2y$10KUm
 auth_attempts: 5
 block_auth_min: 15
 http_proxy: ""
