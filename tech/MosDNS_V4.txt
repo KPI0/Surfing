@@ -2,9 +2,6 @@ log:
   level: info
   file: "/tmp/mosdns.log"
 
-api:
-  http: "0.0.0.0:9091"
-
 include: []
 
 data_providers:
