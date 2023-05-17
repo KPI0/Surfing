@@ -2,7 +2,7 @@ bind_host: 0.0.0.0
 bind_port: 3000
 users:
   - name: root
-    password: $2a$10$XElIVAi/mPVLrV592IxyGuT4bntGRHDST9L3S/7x6bIAcRR8MOYPa
+    password: $2a$10$ru6fSjWtZ9ShG8jwZX2kiegz6kYQej5z7fLxwnhCMauicQ/v/F1Ku
 auth_attempts: 5
 block_auth_min: 15
 http_proxy: ""
@@ -20,7 +20,6 @@ dns:
   blocking_ipv4: ""
   blocking_ipv6: ""
   blocked_response_ttl: 10
-  protection_disabled_until: null
   parental_block_host: family-block.dns.adguard.com
   safebrowsing_block_host: standard-block.dns.adguard.com
   ratelimit: 0
@@ -44,7 +43,7 @@ dns:
   trusted_proxies:
     - 127.0.0.0/8
     - ::1/128
-  cache_size: 41943040
+  cache_size: 104857600
   cache_ttl_min: 0
   cache_ttl_max: 0
   cache_optimistic: true
@@ -70,12 +69,12 @@ dns:
   cache_time: 30
   safe_search:
     enabled: false
-    bing: true
-    duckduckgo: true
-    google: true
-    pixabay: true
-    yandex: true
-    youtube: true
+    bing: false
+    duckduckgo: false
+    google: false
+    pixabay: false
+    yandex: false
+    youtube: false
   rewrites:
     - domain: dns.alidns.com
       answer: 223.5.5.5
@@ -113,13 +112,13 @@ tls:
   strict_sni_check: false
 querylog:
   ignored: []
-  interval: 720h
+  interval: 168h
   size_memory: 1000
   enabled: true
   file_enabled: true
 statistics:
   ignored: []
-  interval: 720h
+  interval: 168h
   enabled: true
 filters:
   - enabled: true
