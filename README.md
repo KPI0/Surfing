@@ -141,6 +141,14 @@ https://raw.fastgit.org/Pawdroid/Free-servers/main/sub
 https://raw.githubusercontent.com/KPI0/Surfing/main/v2_link
 ```
   </details>
+    <details>
+  <summary>备用机场</summary>
+      
+  [魔戒](https://mojie.me/#/register?code=a5JfG8sF)<br>
+  [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=mKjTrwlH)<br>
+  [霍格沃茨魔法學院](https://v2.lu/#/register?code=S1FDOZcD)<br>
+  [Nexitally](https://nxboom.com/signupbyemail.aspx?MemberCode=f823a9e89e774a7a8f792f6ee8577eda20230629113000)<br>
+    </details>
 </details>
 <details>
   <summary>other</summary>
@@ -150,4 +158,3 @@ https://raw.githubusercontent.com/KPI0/Surfing/main/v2_link
   [思维导图diagrams.net](https://app.diagrams.net/)<br>
   [Z-library](https://z-lib.is/)<br>
 </details>
-
