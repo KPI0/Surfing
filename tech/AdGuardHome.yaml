@@ -2,7 +2,7 @@ bind_host: 0.0.0.0
 bind_port: 3000
 users:
   - name: root
-    password: $2a$10$ru6fSjWtZ9ShG8jwZX2kiegz6kYQej5z7fLxwnhCMauicQ/v/F1Ku
+    password: $2y$10$90vp2T2I40d2aapgkh11k.7CuDdsTXkhYhtAEzLTa4Lz6IrwiUeFu
 auth_attempts: 5
 block_auth_min: 15
 http_proxy: ""
@@ -20,6 +20,7 @@ dns:
   blocking_ipv4: ""
   blocking_ipv6: ""
   blocked_response_ttl: 10
+  protection_disabled_until: null
   parental_block_host: family-block.dns.adguard.com
   safebrowsing_block_host: standard-block.dns.adguard.com
   ratelimit: 0
