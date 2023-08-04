@@ -43,6 +43,7 @@
   
   [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash for Windows中文汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)、[Clash for Windows中文版](https://github.com/ender-zhao/Clash-for-Windows_Chinese)<br>
   [clash](https://github.com/Dreamacro/clash)<br>
+  [Clash Verge](https://github.com/zzzgydi/clash-verge/releases)<br>
   [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta/releases)<br>
   [v2rayN](https://github.com/2dust/v2rayN/releases)<br>
   [v2ray-core](https://github.com/v2fly/v2ray-core/releases)<br>
