@@ -11,6 +11,7 @@
   [Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android/releases)<br>
   [ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android/releases)<br>
   [v2rayNG](https://github.com/2dust/v2rayNG/releases)<br>
+  [NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)<br>
   [v2ray-core](https://github.com/v2fly/v2ray-core/releases)<br>
   [ClashRForAndroid](https://github.com/naicfeng/ClashRForAndroid/releases)<br>
   [kitsunebi-Android](https://github.com/eycorsican/kitsunebi-android/releases)<br>
