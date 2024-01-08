@@ -7,6 +7,7 @@
   [Shadowsocksr-v2ray-trojan-Android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)<br>
   [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)<br>
   [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)<br>
+  [NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)<br>
   [Matsuri](https://github.com/MatsuriDayo/Matsuri/releases)<br>
   [Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android/releases)<br>
   [ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android/releases)<br>
