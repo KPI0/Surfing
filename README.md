@@ -7,6 +7,7 @@
   [Shadowsocksr-v2ray-trojan-Android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)<br>
   ~~[ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)~~ <br>
   [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)<br>
+  [sing-box](https://github.com/SagerNet/sing-box/releases)<br>
   [NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)<br>
   [Matsuri](https://github.com/MatsuriDayo/Matsuri/releases)<br>
   [Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android/releases)<br>
@@ -45,6 +46,7 @@
   ~~[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)~~、~~[Clash for Windows中文汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)~~、[Clash for Windows中文版](https://github.com/ender-zhao/Clash-for-Windows_Chinese)<br>
   ~~[clash](https://github.com/Dreamacro/clash)~~ <br>
   [Clash Verge](https://github.com/zzzgydi/clash-verge/releases)<br>
+  [sing-box](https://github.com/SagerNet/sing-box/releases)<br>
   [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)<br>
   [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta/releases)<br>
   [v2rayN](https://github.com/2dust/v2rayN/releases)<br>
@@ -78,6 +80,7 @@
   ~~[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)~~、~~[Clash for Windows中文汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)~~ <br>
   [clash](https://github.com/Dreamacro/clash)<br>
   [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)<br>
+  [sing-box](https://github.com/SagerNet/sing-box/releases)<br>
   [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta/releases)<br>
   [ShellClash](https://github.com/juewuy/ShellClash)<br>
   [v2ray-core](https://github.com/v2fly/v2ray-core/releases)<br>
