@@ -5,7 +5,7 @@
   <summary>Android</summary>
   
   [Shadowsocksr-v2ray-trojan-Android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)<br>
-  [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)<br>
+  ~~[ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)~~ <br>
   [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)<br>
   [NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)<br>
   [Matsuri](https://github.com/MatsuriDayo/Matsuri/releases)<br>
@@ -19,7 +19,7 @@
   [Surfboard](https://manual.getsurfboard.com/)<br>
   [igniter](https://github.com/trojan-gfw/igniter/releases)<br>
   [Pharos](https://github.com/PharosVip/Pharos-Android-Test/releases)<br>
-  ~~[bifrostv](https://github.com/v2raym/bifrostv)~~<br>
+  ~~[bifrostv](https://github.com/v2raym/bifrostv)~~ <br>
   [Telegram](https://telegram.org/android)、[Nekogram X](https://github.com/NekoX-Dev/NekoX/releases)、[Nekogram](https://nekogram.app/)、[Nagram](https://github.com/NextAlone/Nagram/releases)、[Telegram X](https://github.com/TGX-Android/Telegram-X)、[Plus Messenger](https://play.google.com/store/apps/details?id=org.telegram.plus)、[Turrit](https://iturrit.net/)<br>
 </details>
 <details>
@@ -42,8 +42,8 @@
 <details>
   <summary>Windows</summary>
   
-  [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash for Windows中文汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)、[Clash for Windows中文版](https://github.com/ender-zhao/Clash-for-Windows_Chinese)<br>
-  [clash](https://github.com/Dreamacro/clash)<br>
+  ~~[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)~~、~~[Clash for Windows中文汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)~~、[Clash for Windows中文版](https://github.com/ender-zhao/Clash-for-Windows_Chinese)<br>
+  ~~[clash](https://github.com/Dreamacro/clash)~~ <br>
   [Clash Verge](https://github.com/zzzgydi/clash-verge/releases)<br>
   [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)<br>
   [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta/releases)<br>
@@ -62,7 +62,7 @@
 <details>
   <summary>macOS</summary>
   
-  [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash for Windows中文汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)<br>
+  ~~[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)~~、~~[Clash for Windows中文汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)~~ <br>
   [clash](https://github.com/Dreamacro/clash)<br>
   [ClashX](https://github.com/yichengchen/clashX/releases)<br>
   [ShadowsocksX](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)<br>
@@ -75,7 +75,7 @@
 <details>
   <summary>Linux</summary>
   
-  [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)、[Clash for Windows中文汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)<br>
+  ~~[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)~~、~~[Clash for Windows中文汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)~~ <br>
   [clash](https://github.com/Dreamacro/clash)<br>
   [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)<br>
   [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta/releases)<br>
