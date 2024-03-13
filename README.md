@@ -46,6 +46,7 @@
   ~~[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)~~、~~[Clash for Windows中文汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)~~、[Clash for Windows中文版](https://github.com/ender-zhao/Clash-for-Windows_Chinese)<br>
   ~~[clash](https://github.com/Dreamacro/clash)~~ <br>
   [Clash Verge](https://github.com/zzzgydi/clash-verge/releases)<br>
+  [Clash Nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu/releases)<br>
   [sing-box](https://github.com/SagerNet/sing-box/releases)<br>
   [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)<br>
   [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta/releases)<br>
@@ -66,6 +67,7 @@
   
   ~~[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)~~、~~[Clash for Windows中文汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)~~ <br>
   [clash](https://github.com/Dreamacro/clash)<br>
+  [Clash Nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu/releases)<br>
   [ClashX](https://github.com/yichengchen/clashX/releases)<br>
   [ShadowsocksX](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)<br>
   [v2ray-core](https://github.com/v2fly/v2ray-core/releases)<br>
@@ -80,6 +82,7 @@
   ~~[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)~~、~~[Clash for Windows中文汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)~~ <br>
   [clash](https://github.com/Dreamacro/clash)<br>
   [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)<br>
+  [Clash Nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu/releases)<br>
   [sing-box](https://github.com/SagerNet/sing-box/releases)<br>
   [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta/releases)<br>
   [ShellClash](https://github.com/juewuy/ShellClash)<br>
