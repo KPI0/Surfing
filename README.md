@@ -66,8 +66,9 @@
   <summary>macOS</summary>
   
   ~~[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)~~、~~[Clash for Windows中文汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)~~ <br>
-  [clash](https://github.com/Dreamacro/clash)<br>
-  [Clash Verge](https://github.com/zzzgydi/clash-verge/releases)<br>
+  
+  ~~[clash](https://github.com/Dreamacro/clash)~~ <br>
+  ~~[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)~~ <br>
   [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)<br>
   [Clash Nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu/releases)<br>
   ~~[ClashX](https://github.com/yichengchen/clashX/releases)~~ <br>
