@@ -73,7 +73,7 @@
   ~~[ClashX](https://github.com/yichengchen/clashX/releases)~~ <br>
   [ShadowsocksX](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)<br>
   [v2ray-core](https://github.com/v2fly/v2ray-core/releases)<br>
-  [V2rayU](https://github.com/yanue/V2rayU/releases)<br>
+  ~~[V2rayU](https://github.com/yanue/V2rayU/releases)~~ <br>
   [trojan](https://github.com/trojan-gfw/trojan/releases)<br>
   [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)<br>
   [Telegram](https://telegram.org/dl/desktop/mac)、[Kotatogram](https://github.com/kotatogram/kotatogram-desktop/releases)、[64Gram](https://github.com/TDesktop-x64/tdesktop/releases)、[Forkgram](https://github.com/Forkgram/tdesktop/releases)、[Telegreat](https://telegre.at/#download)<br>
