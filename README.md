@@ -71,6 +71,7 @@
   ~~[clash](https://github.com/Dreamacro/clash)~~ <br>
   ~~[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)~~ <br>
   [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)<br>
+  [FlClash](https://github.com/chen08209/FlClash)<br>
   [Clash Nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu/releases)<br>
   ~~[ClashX](https://github.com/yichengchen/clashX/releases)~~ <br>
   [ShadowsocksX](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)<br>
