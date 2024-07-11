@@ -9,6 +9,7 @@
   [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)<br>
   [FlClash](https://github.com/chen08209/FlClash)<br>
   [sing-box](https://github.com/SagerNet/sing-box/releases)<br>
+  [Hiddify](https://github.com/hiddify/hiddify-next)<br>
   [NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)<br>
   [Matsuri](https://github.com/MatsuriDayo/Matsuri/releases)<br>
   [Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android/releases)<br>
@@ -28,6 +29,7 @@
   <summary>iOS</summary>
   
   [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)<br>
+  [Hiddify](https://github.com/hiddify/hiddify-next)<br>
   [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)<br>
   [Choc](https://apps.apple.com/us/app/choc/id1582542227)<br>
   [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)<br>
@@ -49,6 +51,7 @@
   [Clash Verge](https://github.com/zzzgydi/clash-verge/releases)<br>
   [Clash Nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu/releases)<br>
   [sing-box](https://github.com/SagerNet/sing-box/releases)<br>
+  [Hiddify](https://github.com/hiddify/hiddify-next)<br>
   [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)<br>
   [FlClash](https://github.com/chen08209/FlClash)<br>
   [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta/releases)<br>
@@ -72,6 +75,7 @@
   ~~[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)~~ <br>
   [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)<br>
   [FlClash](https://github.com/chen08209/FlClash)<br>
+  [Hiddify](https://github.com/hiddify/hiddify-next)<br>
   [Clash Nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu/releases)<br>
   ~~[ClashX](https://github.com/yichengchen/clashX/releases)~~ <br>
   [ShadowsocksX](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)<br>
@@ -90,6 +94,7 @@
   [FlClash](https://github.com/chen08209/FlClash)<br>
   [Clash Nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu/releases)<br>
   [sing-box](https://github.com/SagerNet/sing-box/releases)<br>
+  [Hiddify](https://github.com/hiddify/hiddify-next)<br>
   [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta/releases)<br>
   [ShellClash](https://github.com/juewuy/ShellClash)<br>
   [v2ray-core](https://github.com/v2fly/v2ray-core/releases)<br>
