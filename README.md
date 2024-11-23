@@ -53,6 +53,7 @@
   [sing-box](https://github.com/SagerNet/sing-box/releases)<br>
   [Hiddify](https://github.com/hiddify/hiddify-next)<br>
   [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)<br>
+  [mihomo-party](https://github.com/mihomo-party-org/mihomo-party/releases)<br>
   [FlClash](https://github.com/chen08209/FlClash)<br>
   [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta/releases)<br>
   [v2rayN](https://github.com/2dust/v2rayN/releases)<br>
@@ -74,6 +75,7 @@
   ~~[clash](https://github.com/Dreamacro/clash)~~ <br>
   ~~[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)~~ <br>
   [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)<br>
+  [mihomo-party](https://github.com/mihomo-party-org/mihomo-party/releases)<br>
   [FlClash](https://github.com/chen08209/FlClash)<br>
   [Hiddify](https://github.com/hiddify/hiddify-next)<br>
   [Clash Nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu/releases)<br>
@@ -91,6 +93,7 @@
   ~~[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)~~、~~[Clash for Windows中文汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)~~ <br>
   ~~[clash](https://github.com/Dreamacro/clash)~~ <br>
   [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)<br>
+  [mihomo-party](https://github.com/mihomo-party-org/mihomo-party/releases)<br>
   [FlClash](https://github.com/chen08209/FlClash)<br>
   [Clash Nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu/releases)<br>
   [sing-box](https://github.com/SagerNet/sing-box/releases)<br>
