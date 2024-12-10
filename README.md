@@ -55,6 +55,7 @@
   [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)<br>
   [mihomo-party](https://github.com/mihomo-party-org/mihomo-party/releases)<br>
   [FlClash](https://github.com/chen08209/FlClash)<br>
+  [GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases)<br>
   [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta/releases)<br>
   [v2rayN](https://github.com/2dust/v2rayN/releases)<br>
   [v2ray-core](https://github.com/v2fly/v2ray-core/releases)<br>
@@ -96,6 +97,7 @@
   [mihomo-party](https://github.com/mihomo-party-org/mihomo-party/releases)<br>
   [FlClash](https://github.com/chen08209/FlClash)<br>
   [Clash Nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu/releases)<br>
+  [GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases)<br>
   [sing-box](https://github.com/SagerNet/sing-box/releases)<br>
   [Hiddify](https://github.com/hiddify/hiddify-next)<br>
   [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta/releases)<br>
