@@ -9,6 +9,7 @@
   [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)<br>
   [FlClash](https://github.com/chen08209/FlClash)<br>
   [sing-box](https://github.com/SagerNet/sing-box/releases)<br>
+  [Karing](https://github.com/KaringX/karing/releases)<br>
   [Hiddify](https://github.com/hiddify/hiddify-next)<br>
   [NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)<br>
   [Matsuri](https://github.com/MatsuriDayo/Matsuri/releases)<br>
@@ -56,6 +57,7 @@
   [mihomo-party](https://github.com/mihomo-party-org/mihomo-party/releases)<br>
   [FlClash](https://github.com/chen08209/FlClash)<br>
   [GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases)<br>
+  [Karing](https://github.com/KaringX/karing/releases)<br>
   [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta/releases)<br>
   [v2rayN](https://github.com/2dust/v2rayN/releases)<br>
   [v2ray-core](https://github.com/v2fly/v2ray-core/releases)<br>
