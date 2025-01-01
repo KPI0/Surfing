@@ -57,6 +57,7 @@
   [mihomo-party](https://github.com/mihomo-party-org/mihomo-party/releases)<br>
   [FlClash](https://github.com/chen08209/FlClash)<br>
   [GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases)<br>
+  [GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash/releases)<br>
   [Karing](https://github.com/KaringX/karing/releases)<br>
   [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta/releases)<br>
   [v2rayN](https://github.com/2dust/v2rayN/releases)<br>
