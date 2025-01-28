@@ -80,6 +80,12 @@ const regionOptions = {
       icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure/IconSet/Color/Korea.png',
     },
     {
+      name: 'KP朝鲜',
+      regex: /朝鲜🇰🇵|kp|korea/i,
+      ratioLimit: 2,
+      icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Korea.png',
+    },
+    {
       name: 'SG新加坡',
       regex: /新加坡|🇸🇬|sg|singapore/i,
       ratioLimit: 2,
