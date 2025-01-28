@@ -134,6 +134,12 @@ const regionOptions = {
       icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/India.png',
     },
     {
+      name: 'VN越南',
+      regex: /越南|🇻🇳|vn|vietnam/i,
+      ratioLimit: 2,
+      icon: 'https://cdn.jsdelivr.net/gh/KPI0/Surfing@main/icon/Vietnam.png',
+    },
+    {
       name: 'MY马来西亚',
       regex: /马来|🇩🇪|my|malaysia/i,
       ratioLimit: 2,
