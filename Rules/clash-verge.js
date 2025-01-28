@@ -86,6 +86,24 @@ const regionOptions = {
       icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure/IconSet/Color/Singapore.png',
     },
     {
+      name: 'RU俄罗斯',
+      regex: /俄|🇷🇺|ru|russia/i,
+      ratioLimit: 2,
+      icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Russia.png',
+    },
+    {
+      name: 'UA乌克兰',
+      regex: /乌克兰|🇺🇦|ua|ukraine/i,
+      ratioLimit: 2,
+      icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Ukraine.png',
+    },
+    {
+      name: 'CA加拿大',
+      regex: /加拿大|🇨🇦|ca|canada/i,
+      ratioLimit: 2,
+      icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Canada.png',
+    },
+    {
       name: 'CN中国大陆',
       regex: /中国|🇨🇳|cn|china/i,
       ratioLimit: 2,
