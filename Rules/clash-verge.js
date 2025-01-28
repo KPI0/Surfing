@@ -86,36 +86,6 @@ const regionOptions = {
       icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Korea.png',
     },
     {
-      name: 'SG新加坡',
-      regex: /新加坡|🇸🇬|sg|singapore/i,
-      ratioLimit: 2,
-      icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure/IconSet/Color/Singapore.png',
-    },
-    {
-      name: 'RU俄罗斯',
-      regex: /俄|🇷🇺|ru|russia/i,
-      ratioLimit: 2,
-      icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Russia.png',
-    },
-    {
-      name: 'UA乌克兰',
-      regex: /乌克兰|🇺🇦|ua|ukraine/i,
-      ratioLimit: 2,
-      icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Ukraine.png',
-    },
-    {
-      name: 'CA加拿大',
-      regex: /加拿大|🇨🇦|ca|canada/i,
-      ratioLimit: 2,
-      icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Canada.png',
-    },
-    {
-      name: 'CN中国大陆',
-      regex: /中国|🇨🇳|cn|china/i,
-      ratioLimit: 2,
-      icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure/IconSet/Color/China_Map.png',
-    },
-    {
       name: 'TW台湾省',
       regex: /台湾|🇹🇼|tw|taiwan|tai wan/i,
       ratioLimit: 2,
@@ -146,6 +116,48 @@ const regionOptions = {
       icon: 'https://cdn.jsdelivr.net/gh/KPI0/Surfing@main/icon/Vietnam.png',
     },
     {
+      name: 'TK土耳其',
+      regex: /土耳其|🇹🇷|tk|turkey/i,
+      ratioLimit: 2,
+      icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure/IconSet/Color/Turkey.png',
+    },
+    {
+      name: 'SG新加坡',
+      regex: /新加坡|🇸🇬|sg|singapore/i,
+      ratioLimit: 2,
+      icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure/IconSet/Color/Singapore.png',
+    },
+    {
+      name: 'RU俄罗斯',
+      regex: /俄|🇷🇺|ru|russia/i,
+      ratioLimit: 2,
+      icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Russia.png',
+    },
+    {
+      name: 'UA乌克兰',
+      regex: /乌克兰|🇺🇦|ua|ukraine/i,
+      ratioLimit: 2,
+      icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Ukraine.png',
+    },
+    {
+      name: 'CA加拿大',
+      regex: /加拿大|🇨🇦|ca|canada/i,
+      ratioLimit: 2,
+      icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Canada.png',
+    },
+    {
+      name: 'IT意大利',
+      regex: /意大利|🇮🇹|it|italian/i,
+      ratioLimit: 2,
+      icon: 'https://cdn.jsdelivr.net/gh/KPI0/Surfing@main/icon/Italian.png',
+    },
+    {
+      name: 'CN中国大陆',
+      regex: /中国|🇨🇳|cn|china/i,
+      ratioLimit: 2,
+      icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure/IconSet/Color/China_Map.png',
+    },
+    {
       name: 'MY马来西亚',
       regex: /马来|🇩🇪|my|malaysia/i,
       ratioLimit: 2,
@@ -156,12 +168,6 @@ const regionOptions = {
       regex: /澳|🇦🇺|aus|australia/i,
       ratioLimit: 2,
       icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Australia.png',
-    },
-    {
-      name: 'TK土耳其',
-      regex: /土耳其|🇹🇷|tk|turkey/i,
-      ratioLimit: 2,
-      icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure/IconSet/Color/Turkey.png',
     },
   ],
 }
