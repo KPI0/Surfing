@@ -23,12 +23,12 @@ const enable = true
 const ruleOptions = {
   apple: false, // 苹果服务
   microsoft: true, // Microsoft
-  google: true, // Google服务
-  openai: true, // ChatGPT和GPT
+  google: true, // Google
+  openai: true, // ChatGPT
   spotify: true, // Spotify
   youtube: true, // YouTube
   bahamut: false, // 巴哈姆特/动画疯
-  netflix: true, // Netflix网飞
+  netflix: true, // Netflix
   tiktok: true, // 国际版抖音
   disney: false, // 迪士尼
   pixiv: false, // Pixiv
