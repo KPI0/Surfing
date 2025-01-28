@@ -110,6 +110,12 @@ const regionOptions = {
       icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure/IconSet/Color/Germany.png',
     },
     {
+      name: 'IN印度',
+      regex: /印度|🇮🇳|ind|india/i,
+      ratioLimit: 2,
+      icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/India.png',
+    },
+    {
       name: 'MY马来西亚',
       regex: /马来|🇩🇪|my|malaysia/i,
       ratioLimit: 2,
@@ -117,7 +123,7 @@ const regionOptions = {
     },
     {
       name: 'AU澳大利亚',
-      regex: /澳|🇦🇺|aus|Australia/i,
+      regex: /澳|🇦🇺|aus|australia/i,
       ratioLimit: 2,
       icon: 'https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Australia.png',
     },
