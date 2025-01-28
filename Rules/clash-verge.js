@@ -22,9 +22,9 @@ const enable = true
  */
 const ruleOptions = {
   apple: false, // 苹果服务
-  microsoft: true, // 微软服务
+  microsoft: true, // Microsoft
   google: true, // Google服务
-  openai: true, // 国外AI和GPT
+  openai: true, // ChatGPT和GPT
   spotify: true, // Spotify
   youtube: true, // YouTube
   bahamut: false, // 巴哈姆特/动画疯
@@ -363,9 +363,9 @@ function main(config) {
 
   if (ruleOptions.openai) {
     rules.push(
-      'DOMAIN-SUFFIX,grazie.ai,国外AI',
-      'DOMAIN-SUFFIX,grazie.aws.intellij.net,国外AI',
-      'RULE-SET,ai,国外AI',
+      'DOMAIN-SUFFIX,grazie.ai,ChatGPT',
+      'DOMAIN-SUFFIX,grazie.aws.intellij.net,ChatGPT',
+      'RULE-SET,ai,ChatGPT',
     )
     ruleProviders.set('ai', {
       ...ruleProviderCommon,
@@ -376,7 +376,7 @@ function main(config) {
     })
     config['proxy-groups'].push({
       ...groupBaseOption,
-      name: '国外AI',
+      name: 'ChatGPT',
       type: 'select',
       proxies: ['默认节点', ...proxyGroupsRegionNames, '直连'],
       url: 'https://chat.openai.com/cdn-cgi/trace',
@@ -433,10 +433,10 @@ function main(config) {
   }
 
   if (ruleOptions.netflix) {
-    rules.push('GEOSITE,netflix,NETFLIX')
+    rules.push('GEOSITE,netflix,Netflix')
     config['proxy-groups'].push({
       ...groupBaseOption,
-      name: 'NETFLIX',
+      name: 'Netflix',
       type: 'select',
       proxies: ['默认节点', ...proxyGroupsRegionNames, '直连'],
       url: 'https://api.fast.com/netflix/speedtest/v2?https=true',
@@ -613,10 +613,10 @@ function main(config) {
   }
 
   if (ruleOptions.google) {
-    rules.push('GEOSITE,google,谷歌服务')
+    rules.push('GEOSITE,google,Google')
     config['proxy-groups'].push({
       ...groupBaseOption,
-      name: '谷歌服务',
+      name: 'Google',
       type: 'select',
       proxies: ['默认节点', ...proxyGroupsRegionNames, '直连'],
       url: 'http://www.google.com/generate_204',
@@ -625,10 +625,10 @@ function main(config) {
   }
 
   if (ruleOptions.microsoft) {
-    rules.push('GEOSITE,microsoft@cn,国内网站', 'GEOSITE,microsoft,微软服务')
+    rules.push('GEOSITE,microsoft@cn,国内网站', 'GEOSITE,microsoft,Microsoft')
     config['proxy-groups'].push({
       ...groupBaseOption,
-      name: '微软服务',
+      name: 'Microsoft',
       type: 'select',
       proxies: ['默认节点', ...proxyGroupsRegionNames, '直连'],
       url: 'http://www.msftconnecttest.com/connecttest.txt',
